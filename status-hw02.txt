@@ -1,0 +1,55 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Kevin Sun
+
+2. What hostname did you deploy to?
+hw02.ksun.pw
+
+3. What's the link to your repository on github with your code?
+https://github.com/kevinsun242/CS4550-HW02
+
+4. How many HTML / CSS tutorial exercises did you do?
+Most of the HTML down to JavaScript.
+About half of the CSS down to Position
+
+5. How comfortable do you feel with HTML and CSS now?
+Fairly comfortable although this is still my first time using
+them, I feel like I have a good reference to look up what
+I need.
+
+6. How many JS tutorial exercises did you do?
+About half of them.
+
+7. How comfortable do you feel with JS now?
+So-so, as this is my first time working with JS.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Yes
+
+9. Which parts of this assignment did you have trouble with, if any?
+I had some trouble initially with getting the CSS with some things,
+such as aligning the buttons to a grid in a table and getting them
+to the size I wanted. This was mainly trial and error though as 
+you can easily test the HTML page from a browser.
+
+It also took a little time getting the logic of the calculator
+working correctly and catching errors / edge cases. For example,
+hitting multiple operators without any numbers in between or 
+leading zeros when it's not a decimal would cause errors when
+trying to evaluate the expression.
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
