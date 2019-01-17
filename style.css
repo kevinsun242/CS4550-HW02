@@ -1,0 +1,23 @@
+h1 {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+input[type="text"] {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size:100%;
+  width:100%;
+  height:100%;
+}
+table {
+  width: 40%;
+}
+td {
+  width: 10%;
+  height: 100px;
+}
+button {
+  display: inline-block;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size:100%;
+  width: 100%;
+  height: 100%;
+}
