@@ -77,9 +77,9 @@
     Sets both the output and internal value to an empty string
     */
     function clear() {
-    	var output = document.getElementById("output");
-    	output.value="";
-    	internalvalue="";
+    	displayedvalue = "";
+    	internalvalue = "";
+    	displayValue(displayedvalue);
     }
 
 	function init() {
